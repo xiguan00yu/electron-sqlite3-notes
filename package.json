@@ -16,7 +16,7 @@
   ],
   "author": "Xiaoyu",
   "devDependencies": {
-    "electron": "^8.2.3"
+    "electron": "^15.5.5"
   },
   "dependencies": {
     "sqlite3": "^4.1.1"
